@@ -13,3 +13,5 @@ E
 contracts/voting.clar,8/c/8c1cfbbcd734bf0b786519a1bc3ab7e69673a66c
 D
 tests/voting.test.ts,c/2/c235d1d4bf185d3f21b196f7f4ba601ce84b67b9
+N
+contracts/fund-management.clar,2/2/22d5609002837376931788366a86b848ca260a06
