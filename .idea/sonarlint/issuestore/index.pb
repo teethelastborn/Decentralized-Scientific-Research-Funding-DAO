@@ -9,3 +9,5 @@ I
 tests/peer-review.test.ts,3/8/382e00409fd4c2aa1a8aaa033f28fcbdea8fc507
 =
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
+E
+contracts/voting.clar,8/c/8c1cfbbcd734bf0b786519a1bc3ab7e69673a66c

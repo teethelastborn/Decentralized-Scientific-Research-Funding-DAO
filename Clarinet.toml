@@ -14,6 +14,11 @@ epoch = 2.5
 path = 'contracts/proposal-submission.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.voting]
+path = 'contracts/voting.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
